@@ -1,0 +1,15 @@
+C:\Users\Qwerty\my_project\src\Lab_13\obj\Debug\net9.0\Lab_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qwerty\my_project\src\Lab_13\obj\Debug\net9.0\Lab_13.AssemblyInfoInputs.cache
+C:\Users\Qwerty\my_project\src\Lab_13\obj\Debug\net9.0\Lab_13.AssemblyInfo.cs
+C:\Users\Qwerty\my_project\src\Lab_13\obj\Debug\net9.0\Lab_13.csproj.CoreCompileInputs.cache
+C:\Users\Qwerty\my_project\src\Lab_13\obj\Debug\net9.0\Lab_13.sourcelink.json
+C:\Users\Qwerty\my_project\src\Lab_13\bin\Debug\net9.0\Lab_13.exe
+C:\Users\Qwerty\my_project\src\Lab_13\bin\Debug\net9.0\Lab_13.deps.json
+C:\Users\Qwerty\my_project\src\Lab_13\bin\Debug\net9.0\Lab_13.runtimeconfig.json
+C:\Users\Qwerty\my_project\src\Lab_13\bin\Debug\net9.0\Lab_13.dll
+C:\Users\Qwerty\my_project\src\Lab_13\bin\Debug\net9.0\Lab_13.pdb
+C:\Users\Qwerty\my_project\src\Lab_13\obj\Debug\net9.0\Lab_13.dll
+C:\Users\Qwerty\my_project\src\Lab_13\obj\Debug\net9.0\refint\Lab_13.dll
+C:\Users\Qwerty\my_project\src\Lab_13\obj\Debug\net9.0\Lab_13.pdb
+C:\Users\Qwerty\my_project\src\Lab_13\obj\Debug\net9.0\Lab_13.genruntimeconfig.cache
+C:\Users\Qwerty\my_project\src\Lab_13\obj\Debug\net9.0\ref\Lab_13.dll

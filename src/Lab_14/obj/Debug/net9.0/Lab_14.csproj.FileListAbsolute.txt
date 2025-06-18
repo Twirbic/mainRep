@@ -1,0 +1,15 @@
+C:\Users\Qwerty\my_project\src\Lab_14\bin\Debug\net9.0\Lab_14.exe
+C:\Users\Qwerty\my_project\src\Lab_14\bin\Debug\net9.0\Lab_14.deps.json
+C:\Users\Qwerty\my_project\src\Lab_14\bin\Debug\net9.0\Lab_14.runtimeconfig.json
+C:\Users\Qwerty\my_project\src\Lab_14\bin\Debug\net9.0\Lab_14.dll
+C:\Users\Qwerty\my_project\src\Lab_14\bin\Debug\net9.0\Lab_14.pdb
+C:\Users\Qwerty\my_project\src\Lab_14\obj\Debug\net9.0\Lab_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qwerty\my_project\src\Lab_14\obj\Debug\net9.0\Lab_14.AssemblyInfoInputs.cache
+C:\Users\Qwerty\my_project\src\Lab_14\obj\Debug\net9.0\Lab_14.AssemblyInfo.cs
+C:\Users\Qwerty\my_project\src\Lab_14\obj\Debug\net9.0\Lab_14.csproj.CoreCompileInputs.cache
+C:\Users\Qwerty\my_project\src\Lab_14\obj\Debug\net9.0\Lab_14.sourcelink.json
+C:\Users\Qwerty\my_project\src\Lab_14\obj\Debug\net9.0\Lab_14.dll
+C:\Users\Qwerty\my_project\src\Lab_14\obj\Debug\net9.0\refint\Lab_14.dll
+C:\Users\Qwerty\my_project\src\Lab_14\obj\Debug\net9.0\Lab_14.pdb
+C:\Users\Qwerty\my_project\src\Lab_14\obj\Debug\net9.0\Lab_14.genruntimeconfig.cache
+C:\Users\Qwerty\my_project\src\Lab_14\obj\Debug\net9.0\ref\Lab_14.dll
